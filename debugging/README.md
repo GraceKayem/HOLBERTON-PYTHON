@@ -1,1 +1,1 @@
-git dirc readme
+git dircetory readme
